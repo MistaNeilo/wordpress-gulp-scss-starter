@@ -1,0 +1,30 @@
+{
+  "name": "gulp-starter",
+  "description": "Neils starter gulp",
+  "main": "gulpfile.js",
+  "authors": [
+    "Neil Kearney"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "gulp",
+    "starter"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "~3.3.7",
+    "animate.scss": "*",
+    "modernizer": "~2.8.2",
+    "jquery": "*",
+    "fontawesome-sass": "*",
+    "font-awesome": "fontawesome#~4.7.0"
+  }
+}
